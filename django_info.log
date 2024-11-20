@@ -1,0 +1,14 @@
+INFO 2024-11-20 23:49:31,490 autoreload Watching for file changes with StatReloader
+INFO 2024-11-20 23:49:38,642 basehttp "GET / HTTP/1.1" 200 5628
+INFO 2024-11-20 23:49:38,723 basehttp "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-11-20 23:49:38,724 basehttp "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2024-11-20 23:49:38,730 basehttp "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2024-11-20 23:49:38,732 basehttp "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2024-11-20 23:49:38,740 basehttp "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2024-11-20 23:49:38,741 basehttp "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2024-11-20 23:49:38,742 basehttp "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2024-11-20 23:49:38,744 basehttp "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2024-11-20 23:49:38,746 basehttp "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2024-11-20 23:49:38,748 basehttp "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2024-11-20 23:49:38,749 basehttp "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2024-11-20 23:49:38,908 basehttp "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
